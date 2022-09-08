@@ -131,7 +131,7 @@ margin-right: 15%;
     justify-content:center;
 }
 #nfttus{
-    width: 100rem;
+    width: %30;
 }
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
