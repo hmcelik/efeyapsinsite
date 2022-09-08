@@ -152,8 +152,8 @@ margin-right: 15%;
     width: 70%;
 }
 #roadmap{
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
