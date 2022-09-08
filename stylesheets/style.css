@@ -121,8 +121,14 @@ margin-right: 15%;
 .header{
     font-size: 4rem;
     color:white;
-    text-align:center;
 
+}
+#nftbutton{
+    width:100vw;
+    text-align:center;
+    display:flex;
+    align-items:center; 
+    justify-content:center;
 }
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
