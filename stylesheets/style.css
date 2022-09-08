@@ -149,7 +149,7 @@ margin-right: 15%;
     padding-bottom: 2rem;
 }
 #roadmapimg{
-    width: 100%;
+    width: 70%;
 }
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
