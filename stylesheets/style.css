@@ -123,7 +123,7 @@ margin-right: 15%;
     color:white;
     text-align: center;
 }
-.nftbutton{
+#nftbutton{
     width:100vw;
     text-align:center;
     display:flex;
