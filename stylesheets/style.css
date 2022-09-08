@@ -78,6 +78,14 @@ a{
     margin-left: 20%;
     margin-right: 20%;
 }
+#nfts p{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 .tokenomicsdiv{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
