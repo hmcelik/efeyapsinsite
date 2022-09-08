@@ -144,6 +144,10 @@ margin-right: 15%;
     margin-right: auto;
     width: 50%;
 }
+#nfts{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
     nav{width: 100vw; margin: 0;}
