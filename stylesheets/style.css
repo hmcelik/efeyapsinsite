@@ -1,5 +1,6 @@
 :root{
-    font-family: 'Courier New', Courier, monospace;
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rozha+One">
+    font-family: 'Rozha One';
 }
 html{
     scroll-behavior: smooth;
