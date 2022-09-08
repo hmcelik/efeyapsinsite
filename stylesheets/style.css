@@ -151,6 +151,10 @@ margin-right: 15%;
 #roadmapimg{
     width: 70%;
 }
+#roadmap{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 @media screen and (max-width: 992px) {
     #about{width: 100%;}
     nav{width: 100vw; margin: 0;}
