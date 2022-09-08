@@ -3,7 +3,7 @@
     src:url(rozhaone-regular-webfont)
 }
 :root{
-
+    font-family:RozhaOne ;
 }
 html{
     scroll-behavior: smooth;
