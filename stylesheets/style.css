@@ -1,9 +1,9 @@
 @font-face{
     font-family: RozhaOne;
-    src:url(rozhaone-regular-webfont)
+    src:url(RozhaOne-Regular.tff)
 }
 :root{
-    font-family:RozhaOne ;
+    font-family: RozhaOne ;
 }
 html{
     scroll-behavior: smooth;
