@@ -1,6 +1,8 @@
 :root{
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rozha+One">
-    font-family: 'Rozha One';
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rozha+One&display=swap" rel="stylesheet">
+    font-family: 'Rozha One', serif;
 }
 html{
     scroll-behavior: smooth;
